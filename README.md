@@ -1,0 +1,14 @@
+# bonito-user 12 SP2A.220505.008 8782922 release-keys
+- manufacturer: google
+- platform: sdm710
+- codename: bonito
+- flavor: bonito-user
+- release: 12
+- id: SP2A.220505.008
+- incremental: 8782922
+- tags: release-keys
+- fingerprint: google/bonito/bonito:12/SP2A.220505.008/8782922:user/release-keys
+- is_ab: true
+- brand: google
+- branch: bonito-user-12-SP2A.220505.008-8782922-release-keys
+- repo: google_bonito_dump
